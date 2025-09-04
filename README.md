@@ -31,6 +31,6 @@ This preprocessing allows direct comparison with simulated coin flips.
 - Entropy ≈ 1.0 bits → near-max unpredictability
 
 ## Deliverables
-- 📑 [Research Paper PDF](docs/Are Markets Random_ EUR_USD vs Coin Flips.pdf)
+- 📑 [Research Paper PDF](docs/fx_vs_coin_randomness.pdf)
 - 📸 Figures in `docs/charts/`
 - 📂 [Notebook](notebooks/fx_vs_coin_randomness.ipynb)
