@@ -34,4 +34,4 @@ This preprocessing allows direct comparison with simulated coin flips.
 - 📑 [Research Paper PDF](docs/fx_vs_coin_randomness.pdf)
 - 📸 Figures in `docs/charts/`
 - 📂 [Notebook](notebooks/fx_vs_coin_randomness.ipynb)
-* 🖼️ [Summary Slide](docs/fx_vs_coin_randomness.png)
+- 🖼️ [Summary Slide](docs/fx_vs_coin_randomness.png)
